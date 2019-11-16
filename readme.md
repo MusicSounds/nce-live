@@ -1,11 +1,9 @@
-# NCE Lives
+# NCE Live (with Domain)
 
-Main Site: https://ncehk2019.github.io/nce-live/
+Site: https://ncelive.tk
 
-Mirror Site: https://nce-live.web.app/
+Cloned from: https://github.com/ncehk2019/nce-live
 
-Data Source Repo: https://github.com/ncehk2019/nce-live-datasrc
+Telegram of original repository: https://t.me/ncelive
 
-Our telegram channel: https://t.me/ncelive
-
-Feel free to raise issue if you have any suggestion or question. 
+Visit the original repo if you have any suggestion or question. 
