@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^ncelive.tk [NC]
+RewriteRule ^(.*)$ http://www.ncelive.tk/$1 [L,R=301]
